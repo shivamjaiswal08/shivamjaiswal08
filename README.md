@@ -1,10 +1,7 @@
-### Hi there 👋 
+## Hi everyone this is Shivam Jaiswal. 
+Currenly working as an odoo developer.
 
-<a href="[https://www.linkedin.com/in/shivamjaiswal08/]">
-  <img align="left" alt="Shivam's LinkedIn" width="40px" height="40px" src="https://cliply.co/wp-content/uploads/2021/02/372102050_LINKEDIN_ICON_TRANSPARENT_1080.gif" />
-</a>
-<br />
-<br />
+LinkedIn: shivamjaiswal08
 
 [![Shivam's github stats](https://github-readme-stats.vercel.app/api?username=shivamjaiswal08&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true)](https://github.com/shivamjaiswal08)
 
